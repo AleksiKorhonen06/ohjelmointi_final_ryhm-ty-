@@ -1,8 +1,23 @@
 MOROOROOOOO
 MOROMORO
 <<<<<<< HEAD
+<<<<<<< HEAD
+
+
+Skipidi toilet heavy metal
+
+JUpajuu
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> f0ba7d7cf13daf16d0ef7f5b5e693b5c57cfdff0
 Aisssssaaaaaatana
 =======
 skibidi
 >>>>>>> df0bc59cb4c7ef45e70243f8fffae65626a5d845
+<<<<<<< HEAD
 juupajuuu
+>>>>>>> 1afed6617b52b375eb4b2f4e1e40a999883e8061
+=======
+juupajuuu
+>>>>>>> f0ba7d7cf13daf16d0ef7f5b5e693b5c57cfdff0
